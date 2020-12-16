@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: G.L. Holman
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,23 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Corporate Development Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: GibraltarGroup™ Founder, Retired
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 20-years Corporate Development, Strategy Implementation & Execution working for high tech, start-up and hyper-growth stage companies Silicon Valley, Boston and elsewhere. 10 more years conducting management effectiveness research, analysis and facilitating change management programs to improve knowledge performance and corporate execution for multinational companies.
+consulting ,  Research, My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Management Effectiveness
+- Technology, People & Asset Utilizaation 
+- Knowledge Performance
+- Integrative Management
+- dynamic Strategy, Innovation & Transformation
 
 education:
   courses:
