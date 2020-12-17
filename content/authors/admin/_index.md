@@ -1,6 +1,6 @@
 ---
 # Display name
-title: G.L. Holman
+title: Greg Holman
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Corporate Development Professor of Artificial Intelligence
+role: Corporate Development & Execution Specialist 
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 20-years Corporate Development, Strategy Implementation & Execution working for high tech, start-up and hyper-growth stage companies Silicon Valley, Boston and elsewhere. 10 more years conducting management effectiveness research, analysis and facilitating change management programs to improve knowledge performance and corporate execution for multinational companies.
+bio: Hi, I'm Greg Holman. I am a full time business development executive and strategy preparation, implementation and execution specialist.  facilitate with consulting services or manage manage or facilite services that improve the prepareation, implementation and execution of strategies. . To get results I leverage improved technology, people and asset utilization based on a knowledge performance base and knowknowledge, technology and people utioli us an integrative management approach that I have developed which is based upon a knowledge theory of management.  The approach I use is ic management,  and I have innovated  20-years I of my career working for serial high tech companies in Silicon Valley, Boston and elsewhere. And he spent more than 1-years Following ed by 10 additional years researching, analyzing and facilitating change management and capability development programs for large multinational companies.
+
 consulting ,  Research, My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
